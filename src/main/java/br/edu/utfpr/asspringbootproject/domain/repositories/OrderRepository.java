@@ -11,6 +11,6 @@ import br.edu.utfpr.asspringbootproject.domain.entities.Order;
  * @param <Order>
  */
 @Repository
-public class OrderRepository extends CrudRepository<Order, Long> {
+public interface OrderRepository extends CrudRepository<Order, Long> {
 
 }

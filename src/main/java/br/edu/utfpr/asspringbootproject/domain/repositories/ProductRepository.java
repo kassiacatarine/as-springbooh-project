@@ -9,6 +9,6 @@ import br.edu.utfpr.asspringbootproject.domain.entities.Product;
  * ProductRepository
  */
 @Repository
-public class ProductRepository extends CrudRepository<Product, Long> {
+public interface ProductRepository extends CrudRepository<Product, Long> {
 
 }
