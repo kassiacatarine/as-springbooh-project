@@ -1,0 +1,10 @@
+/home/akira/works/as/as-springboot-project/src/main/java/br/edu/utfpr/asspringbootproject/domain/entities/Category.java
+/home/akira/works/as/as-springboot-project/src/main/java/br/edu/utfpr/asspringbootproject/domain/entities/Address.java
+/home/akira/works/as/as-springboot-project/src/main/java/br/edu/utfpr/asspringbootproject/domain/entities/Product.java
+/home/akira/works/as/as-springboot-project/src/main/java/br/edu/utfpr/asspringbootproject/domain/entities/Order.java
+/home/akira/works/as/as-springboot-project/src/main/java/br/edu/utfpr/asspringbootproject/domain/entities/OrderLine.java
+/home/akira/works/as/as-springboot-project/src/main/java/br/edu/utfpr/asspringbootproject/domain/entities/Custumer.java
+/home/akira/works/as/as-springboot-project/src/main/java/br/edu/utfpr/asspringbootproject/AsSpringbootProjectApplication.java
+/home/akira/works/as/as-springboot-project/src/main/java/br/edu/utfpr/asspringbootproject/domain/entities/CreditCard.java
+/home/akira/works/as/as-springboot-project/src/main/java/br/edu/utfpr/asspringbootproject/domain/entities/Item.java
+/home/akira/works/as/as-springboot-project/src/main/java/br/edu/utfpr/asspringbootproject/domain/entities/CardItem.java
